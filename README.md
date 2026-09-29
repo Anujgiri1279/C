@@ -14,6 +14,7 @@ A collection of everything I learned during my lessons on C: small, focused prog
 | `struct.c` | Defining and using structures |
 | `swap.c` | Swapping values using a function (pointers) |
 | `swappingVariables.c` | Swapping two variables directly |
+| `reverseNumber.c` | Reversing the digits of an integer using a loop, `%` and `/` |
 
 ## Topics Practiced
 
